@@ -1,3 +1,8 @@
 .navbar-brand img {
     width: 120px;
 }
+
+.features-item img {
+    width: 50px;
+    height: auto;
+}
