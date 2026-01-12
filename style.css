@@ -16,3 +16,12 @@
   background-size: cover;
   background-position: center;
 }
+
+.brand-icon{
+    width: 130px;
+}
+
+.blur-filter{
+    backdrop-filter: blur(8px);
+    background-color: #cccccc1e;
+}
